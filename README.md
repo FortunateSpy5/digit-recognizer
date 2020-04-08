@@ -7,7 +7,7 @@ The following packages are needed:
 * tensorflow
 
 ### CNN.py
-Tensorflow is used to create a convolutional network model. The MNSIT database of handwritten digits is used as the dataset for the model. AFter compilation and fitting, the model is saved. The model in this repository has an accuracy score of 0.9965 (60 epochs).  
+Tensorflow is used to create a convolutional neural network model. The MNSIT database of handwritten digits is used as the dataset for the model. AFter compilation and fitting, the model is saved. The model in this repository has an accuracy score of 0.9965 (60 epochs).  
 To learn more about CNN, check out <https://towardsdatascience.com/image-classification-in-10-minutes-with-mnist-dataset-54c35b77a38d>.
 
 ### main.py
